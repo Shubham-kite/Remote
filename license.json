@@ -1,6 +1,6 @@
 {
   "client_id": "client1",
-  "paid": false,
-  "msg": "Please pay the pending amount"
+  "paid": true,
+  "msg": "Thank you !"
 }
 
