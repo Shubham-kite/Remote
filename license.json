@@ -1,6 +1,6 @@
 {
   "client_id": "client1",
-  "paid": false,
+  "paid": true,
   "msg": "Due to payment pending it will fetch 40% data"
 }
 
