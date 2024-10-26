@@ -1,6 +1,6 @@
 {
   "client_id": "client1",
-  "paid": true,
-  "msg": "."
+  "paid": false,
+  "msg": "Please Pay the balance anount"
 }
 
